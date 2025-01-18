@@ -4,7 +4,7 @@ This is a collection of some very useful Unix command-line tools, rewritten in R
 
 There are 2 ways to use these tools. 
 
-1. You can download the exes from the releases tabs, put them into a directory (e.g., C: Scripts), and add that directory to your path. Now, you can use the tools anywhere on your system.
+1. You can download the exes from the releases tabs, put them into a directory (e.g., C:\Scripts), and add that directory to your path. Now, you can use the tools anywhere on your system.
 
 2. You can download the source files and use cargo to compile the rust files into executables that you can use.
 
