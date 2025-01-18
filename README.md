@@ -10,6 +10,6 @@ There are 2 ways to use these tools.
 
 **Note:**
 
-These files were compiled on a 64-bit version of Windows 11, so if you do not share these specifications, I cannot guarantee the tools will work.
+These files were compiled on a 64-bit version of Windows, so if you do not share these specifications, I cannot guarantee the tools will work.
 
 I am working to compile these for other versions, but for now, this is all I have. Sorry for any inconvenience this could cause.
