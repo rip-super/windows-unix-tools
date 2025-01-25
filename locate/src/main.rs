@@ -61,8 +61,6 @@ fn check_args(args: &[String], file_name: &str, options: &mut Options) {
         println!("/l or --limit <number>    Limits the number of results displayed");
         println!("/r or --regex <regexp>    Searches for files based on a regular expression");
 
-        println!("\nMade  by rip-super on Github (https://github.com/rip-super)");
-
         process::exit(0)
     } else if arg == "/b" || arg == "--basename" {
         options.base_name = true;
