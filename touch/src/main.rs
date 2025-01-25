@@ -80,8 +80,6 @@ fn check_args(args: &[String], file_name: &str, options: &mut Options) {
         println!("\n/d or --directory           Creates directories instead of files\n                            Can also create nested folders:\n                            {} --directory this/is/a/nested/folder\n", file_name);
         println!("/a or --access-time         Only updates the accessed time of the file if the file already exists,\n                            otherwise it creates the file like normal\n");
         println!("\n/m or --modification-time   Only updates the modified time of the file if the file already exists,\n                            otherwise it creates the file like normal\n");
-
-        println!("\nMade  by rip-super on Github (https://github.com/rip-super)");
         
         process::exit(0);
     } else if arg == "/c" || arg == "--no-create" {
